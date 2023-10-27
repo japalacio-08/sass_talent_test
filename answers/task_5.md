@@ -24,3 +24,5 @@ User.create(name: "Test User", active: true)
 ```
 
 After runing this, check if a `Person` record was created.
+
+7. Tests. Ensure that there is a test for this functionality.
