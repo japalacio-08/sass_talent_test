@@ -12,3 +12,7 @@ The following is a simple set of questions related to Ruby on Rails and general 
 Let's add another method to ApiController called create. We will create a User with your name and active set to true. Please add it to Person after you create a User.
 
 5. Someone points out that even though a User is being created, a Person isn't being created. How would you go about troubleshooting it?
+
+### Solution
+
+[View Solution](./readme.md)
